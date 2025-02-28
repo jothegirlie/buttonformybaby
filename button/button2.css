@@ -1,0 +1,66 @@
+
+
+* { background-color:#F8E7F6;}
+
+
+
+
+.dm-mono-medium {
+    font-family: "DM Mono", monospace;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+h1 {     font-family: "DM Mono", monospace;
+    font-weight: 400;
+    font-style: normal;     
+  color:#4B164C  ; }
+
+
+
+
+
+button { background-color:#DD88CF;
+padding:50px;
+border-width: 5px;;
+border-color: black;
+border-radius:50px;
+
+
+
+
+}
+
+.container {display:block;
+
+  position:absolute;
+  top:200px;
+  left:500px;
+
+width:fit-content;
+
+}
+
+.buttoning {display: flex;
+gap: 300px;
+
+}
+
+
+a {    
+  background-color: transparent;
+  text-decoration: none;
+  color:#4B164C;
+  font-family: "DM Mono", monospace;
+
+
+}
+
+a:hover {
+  color: #F5F5F5;
+  background-color: transparent;
+  text-decoration:wavy;
+}
+
+
+
